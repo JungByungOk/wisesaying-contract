@@ -44,16 +44,22 @@ git/wisesaying-contract> npx hardhat compile
 # remix ide 이용한 상호작용
 ![remix-demo](https://github.com/JungByungOk/wisesaying-contract/assets/14744923/5ca6699d-ff04-4795-9992-0f5fb2a4ac26)
 
-# npx hardhat run script
+# Interacting programmatically
 
 ```
-> npx hardhat run ./scripts/interaction/safe_mint.js
-> npx hardhat run ./scripts/interaction/tokenUri.js
+컨트랙트 상태 정보 조회
+> npx hardhat run ./scripts/interactions/state.js --network sepolia
+
+신규 민팅
+> npx hardhat run ./scripts/interactions/minting.js --network sepolia
+
+전체 메타데이터 조회
+> npx hardhat run ./scripts/interactions/metadata.js --network sepolia
 ```
 
 # hardhat console interaction
 
-~~확인 안됨.~~
+지원이 잘 안되는거 같은???
 
 ```
 npx hardhat console --network sepolia
