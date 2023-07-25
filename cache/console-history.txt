@@ -1,0 +1,17 @@
+token
+const token = await (await ethers.getContractFactory("WiseSaying")).attach("0xD4dFF05B21dC713CCd3eabf5A6fF4CB12E0Ce387")
+web3
+ethers
+.exit
+const wsc = await WiseSaying.attach('0xD4dFF05B21dC713CCd3eabf5A6fF4CB12E0Ce387')
+contract.safe_mint
+contract.safe_min
+contract
+const contract = await WiseSaying.attach('0xD4dFF05B21dC713CCd3eabf5A6fF4CB12E0Ce387')
+WiseSaying
+const WiseSaying = await ethers.getContractFactory
+.exit
+const contract = await WiseSaying.attach('0xD4dFF05B21dC713CCd3eabf5A6fF4CB12E0Ce387');
+const contract = await WiseSaying
+const WiseSaying = await ethers.getContractFactory("WiseSaying")
+const WiseSaying = await ehters.getContractFactory("WiseSaying")
