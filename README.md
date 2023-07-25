@@ -4,10 +4,13 @@
 * ERC721 표준 NFT를 구현한다.
 
 # sepolia network 
-contract address : 0xD4dFF05B21dC713CCd3eabf5A6fF4CB12E0Ce387  
-etherscan : https://sepolia.etherscan.io/address/0xD4dFF05B21dC713CCd3eabf5A6fF4CB12E0Ce387  
+contract address :  
+0xD4dFF05B21dC713CCd3eabf5A6fF4CB12E0Ce387  
 
-#  Minted ERC721
+etherscan :  
+https://sepolia.etherscan.io/address/0xD4dFF05B21dC713CCd3eabf5A6fF4CB12E0Ce387  
+
+# minted erc721 (demo)
 ![wisesayingcard-demo2](https://github.com/JungByungOk/wisesaying-contract/assets/14744923/be55c5bb-6f05-4e92-a58a-374e02d33f44)
 
 # metadata
