@@ -1,7 +1,7 @@
 # wisesaying-contract
-* hardhat + openzeppline을 이용하고, 메타데이터와 어셋은 온체인상에 존재하는 ERC721 테스트용 개발
-* 온체인에 메타데이터와 어셋을 저장
-
+* hardhat + openzeppline을 이용한다. 
+* 메타데이터와 어셋은 온체인상에 존재해야 한다.
+* ERC721 표준 NFT를 구현한다.
 
 # sepolia network 
 contract address : 0xD4dFF05B21dC713CCd3eabf5A6fF4CB12E0Ce387  
