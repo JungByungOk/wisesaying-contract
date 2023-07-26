@@ -9,7 +9,7 @@ async function main () {
     console.log("\tContract Name = %s", await contract.name());
     console.log("\tContract Symbol = %s", await contract.symbol());
     console.log("\tContract Owner Address = %s", await contract.owner());
-    console.log("\ttotalSupply = %d", await contract.totalSupply());
+    console.log("\ttotalSupply = %d", Number(await contract.totalSupply()));
 
   }
   
